@@ -1,1 +1,1 @@
-These are my coursework projects I've worked. Most of the Python files are in HTML format. Download/clone the files to look at the code and output.
+These are my coursework projects I've worked on. Most of the Python files are in HTML format. Download/clone the files to look at the code and output.
